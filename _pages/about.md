@@ -13,7 +13,7 @@ I am a Machine Learning PhD student at [École Polytechnique Fédérale de Lausa
 
 News
 ======
-* January 2023: Our paper titled "Leveraging Unlabeled Data to Track Memorization" is accepted at ICLR 2023. Check out [(https://twitter.com/mforouzesh/status/1601105634694680576?s=20)]{this twitterthread} to learn more about it.
+* January 2023: Our paper titled "Leveraging Unlabeled Data to Track Memorization" is accepted at ICLR 2023. Check out [this twitter thread](https://twitter.com/mforouzesh/status/1601105634694680576?s=20) to learn more about it.
 
 Publications
 ======
