@@ -11,27 +11,28 @@ I am a Machine Learning PhD student at [École Polytechnique Fédérale de Lausa
 
 [Curriculum Vitae](/files/cv.pdf)
 
-# News
+News
+===
 * January 2023: Our [paper](https://openreview.net/forum?id=ORp91sAbzI&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FConference%2FAuthors%23your-submissions)) titled "Leveraging Unlabeled Data to Track Memorization" is accepted at [ICLR 2023](https://iclr.cc/Conferences/2023). Check out [this twitter thread](https://twitter.com/mforouzesh/status/1601105634694680576?s=20) to learn more about it.
 
-# Publications
-
-## Leveraging Unlabeled Data to Track Memorization
-**Mahsa Forouzesh**, [Hanie Sedghi](https://haniesedghi.com/), [Patrick Thiran](https://people.epfl.ch/patrick.thiran)
+Publications
+===
+**Leveraging Unlabeled Data to Track Memorization**
+*Mahsa Forouzesh*, [Hanie Sedghi](https://haniesedghi.com/), [Patrick Thiran](https://people.epfl.ch/patrick.thiran)
 
 ICLR 2023, [ArXiv](https://arxiv.org/pdf/2212.04461.pdf), [OpenReview](https://openreview.net/forum?id=ORp91sAbzI&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FConference%2FAuthors%23your-submissions)), [Github](https://github.com/mahf93/tracking-memorization)
 
 <br/>
 
-## Disparity Between Batches as a Signal for Early Stopping
-**Mahsa Forouzesh**, [Patrick Thiran](https://people.epfl.ch/patrick.thiran)
+**Disparity Between Batches as a Signal for Early Stopping**
+*Mahsa Forouzesh*, [Patrick Thiran](https://people.epfl.ch/patrick.thiran)
 
 ECML/PKDD 2021, [ArXiv](https://arxiv.org/pdf/2107.06665.pdf), [Published Version](https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_1075.pdf), [Github](https://github.com/mahf93/disparity_early_stopping)
 
 <br/>
 
-## Generalization Comparison of Deep Neural Networks via Output Sensitivity
-**Mahsa Forouzesh**, [Farnood Salehi](http://farnoodsalehi.me/), [Patrick Thiran](https://people.epfl.ch/patrick.thiran)
+**Generalization Comparison of Deep Neural Networks via Output Sensitivity**
+*Mahsa Forouzesh*, [Farnood Salehi](http://farnoodsalehi.me/), [Patrick Thiran](https://people.epfl.ch/patrick.thiran)
 
 ICPR 2020, Oral Presentation, [ArXiv](https://arxiv.org/abs/2007.15378), [Published Version](https://ieeexplore.ieee.org/document/9412496), [Github](https://github.com/mahf93/sensitivity)
 
