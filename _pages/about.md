@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Machine Learning PhD student at [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/) advised by [Prof. Patrick Thiran](https://people.epfl.ch/patrick.thiran). I am interested in the generalization ability of deep neural networks with a particular focus on classification tasks with limited and/or noisy-labeled datasets. In my research, I focus on finding techniques that require no access to ground truth labels while being informative about the model generalization and the dataset itself.
+I am a Machine Learning PhD student at [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/) in the [INDY](https://indy.epfl.ch/) Lab, advised by [Prof. Patrick Thiran](https://people.epfl.ch/patrick.thiran). I am interested in the generalization ability of deep neural networks with a particular focus on classification tasks with limited and/or noisy-labeled datasets. In my research, I focus on finding techniques that require no access to ground truth labels while being informative about the model generalization and the dataset itself.
 
 [Curriculum Vitae](/files/cv.pdf)
 
