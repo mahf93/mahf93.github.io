@@ -12,11 +12,9 @@ I am a Machine Learning PhD student at [École Polytechnique Fédérale de Lausa
 [Curriculum Vitae](/files/cv.pdf)
 
 # News
-======
 * January 2023: Our [paper](https://openreview.net/forum?id=ORp91sAbzI&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FConference%2FAuthors%23your-submissions)) titled "Leveraging Unlabeled Data to Track Memorization" is accepted at [ICLR 2023](https://iclr.cc/Conferences/2023). Check out [this twitter thread](https://twitter.com/mforouzesh/status/1601105634694680576?s=20) to learn more about it.
 
 # Publications
-======
 
 ## Leveraging Unlabeled Data to Track Memorization
 **Mahsa Forouzesh**, [Hanie Sedghi](https://haniesedghi.com/), [Patrick Thiran](https://people.epfl.ch/patrick.thiran)
