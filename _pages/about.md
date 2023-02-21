@@ -28,4 +28,4 @@ ECML/PKDD 2021, [ArXiv Link](https://arxiv.org/pdf/2107.06665.pdf), [Published V
 
 #### Generalization Comparison of Deep Neural Networks via Output Sensitivity
 **Mahsa Forouzesh**, [Farnood Salehi](http://farnoodsalehi.me/), [Patrick Thiran](https://people.epfl.ch/patrick.thiran)
-ICPR 2020, _Oral_** Presentation, [ArXiv Link](https://arxiv.org/abs/2007.15378), [Published Version](https://ieeexplore.ieee.org/document/9412496), [Github](https://github.com/mahf93/sensitivity)
+ICPR 2020, Oral Presentation, [ArXiv Link](https://arxiv.org/abs/2007.15378), [Published Version](https://ieeexplore.ieee.org/document/9412496), [Github](https://github.com/mahf93/sensitivity)
