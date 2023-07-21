@@ -41,3 +41,9 @@ ECML/PKDD 2021, [ArXiv](https://arxiv.org/pdf/2107.06665.pdf), [Published Versio
 *Mahsa Forouzesh*, [Farnood Salehi](http://farnoodsalehi.me/), [Patrick Thiran](https://people.epfl.ch/patrick.thiran)
 
 ICPR 2020, Oral Presentation, [ArXiv](https://arxiv.org/abs/2007.15378), [Published Version](https://ieeexplore.ieee.org/document/9412496), [Github](https://github.com/mahf93/sensitivity)
+
+Pre-prints
+===
+**Differences Between Hard and Noisy-labeled Samples: An Empirical Study**
+*Mahsa Forouzesh*, [Patrick Thiran](https://people.epfl.ch/patrick.thiran)
+[ArXiv](https://arxiv.org/abs/2307.10718), [Github](https://github.com/mahf93/Hard-vs-Noisy)
