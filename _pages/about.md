@@ -45,5 +45,7 @@ ICPR 2020, Oral Presentation, [ArXiv](https://arxiv.org/abs/2007.15378), [Publis
 Pre-prints
 ===
 **Differences Between Hard and Noisy-labeled Samples: An Empirical Study**
+
 *Mahsa Forouzesh*, [Patrick Thiran](https://people.epfl.ch/patrick.thiran)
+
 [ArXiv](https://arxiv.org/abs/2307.10718), [Github](https://github.com/mahf93/Hard-vs-Noisy)
