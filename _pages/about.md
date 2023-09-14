@@ -18,7 +18,7 @@ News
 ===
 * July 2023: I successfully defended my PhD thesis titled "Deep Learning Generalization with Limited and Noisy Labels". You can find it [here](https://infoscience.epfl.ch/record/303461).
 
-<img src="/images/defense.jpg" alt="HTML" width="630" height="750">
+<img src="/images/defense.jpg" alt="HTML" width="315" height="375">
  
 * January 2023: Our [paper](https://openreview.net/forum?id=ORp91sAbzI&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FConference%2FAuthors%23your-submissions)) titled "Leveraging Unlabeled Data to Track Memorization" is accepted at [ICLR 2023](https://iclr.cc/Conferences/2023). Check out [this twitter thread](https://twitter.com/mforouzesh/status/1601105634694680576?s=20) to learn more about it.
 
